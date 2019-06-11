@@ -1,6 +1,6 @@
 ## Pet Adoption System
 
-#PBuilt using Django and SQLite for DB
+# Built using Django and SQLite for DB
 
 
 ![Screen Shot 2019-06-11 at 6 12 04 PM (2)](https://user-images.githubusercontent.com/43662680/59310566-c9b9c200-8c74-11e9-841d-5c6b4b15ec74.png)
