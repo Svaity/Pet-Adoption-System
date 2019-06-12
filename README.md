@@ -1,6 +1,6 @@
 ## Pet Adoption System
 
-# Built using Django and SQLite for DB
+# Built using Django and SQLite
 
 To Run: 
 "python3 manage.py runserver"
